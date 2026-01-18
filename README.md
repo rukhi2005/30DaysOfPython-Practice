@@ -10,5 +10,6 @@ This repository contains my daily practice and solutions while following the 30D
 ## Progress
 - Day 1 - [✅]
 - Day 2 - [✅]
+- Day 3 - [✅]
 
 ...
