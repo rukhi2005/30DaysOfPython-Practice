@@ -13,6 +13,7 @@ This repository contains my daily practice and solutions while following the 30D
 - Day 3 - [✅]
 - Day 4 - [✖️] 
 - Day 5 - [✅]
+- Day 6 - []
 
 
 ...
